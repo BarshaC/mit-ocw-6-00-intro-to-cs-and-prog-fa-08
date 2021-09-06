@@ -2,7 +2,8 @@ This contains solutions to the problem sets (called as psets in short) of MIT op
 
 Status:
 
-pset1, pset2, pset3, pset4, pset5, pset6, pset7, pset9, pset10 are done!\n
-pset8 is partially done.\n
-pset11 is partially done. \n
-pset12 is yet to start. \n
+pset1, pset2, pset3, pset4, pset5, pset6, pset7, pset9, pset10 are done!
+
+pset8 is partially done.
+pset11 is partially done. 
+pset12 is yet to start. 
